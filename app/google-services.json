@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "470379717218",
+    "project_id": "projeto-login-18c02",
+    "storage_bucket": "projeto-login-18c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470379717218:android:33758f07f365877d11273b",
+        "android_client_info": {
+          "package_name": "com.example.carteiradigital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470379717218-iaocg6o3hvj3cuta01jjjd26d4taf7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9mXMHjZxUfc0cCcxh5lK07kGIdtLpv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470379717218-iaocg6o3hvj3cuta01jjjd26d4taf7is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470379717218:android:63d4da4fe3eadb7811273b",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470379717218-iaocg6o3hvj3cuta01jjjd26d4taf7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9mXMHjZxUfc0cCcxh5lK07kGIdtLpv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470379717218-iaocg6o3hvj3cuta01jjjd26d4taf7is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
