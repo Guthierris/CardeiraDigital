@@ -2,8 +2,6 @@
 Esta aplicação funciona com 3 activity, uma efetua o login, outra é uma activity de menu pós login, a outra faz o registro do usuário, o programa é integrado com o banco de dados FIREBASE do google.
 deve ser feito a devida configuração com o android studio e o firebase, o programa tem todas as mensagens de error possiveis.
 o programa registra os dados e armazena no banco de dados, logo apos o login ser autorizado, a tela de menu resgata as variaveis armazenadas no banco de dados, assim funcionando como uma carteira digital para o usuario, não monetária e sim de dados de documentos.
-
-O programa tem como função gerar frases aleatórias pré-definidas armazenadas em um vetor.
 Para funcionar o programa você precisa emular o codigo no android studio, e utilizar de um android connectado usb ou em ambiente virtual.
 
 #
